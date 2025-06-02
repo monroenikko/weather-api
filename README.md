@@ -33,6 +33,16 @@ This application is built with Laravel framework and integrated from the 3rd par
 
     ```
 
+-   **Copy the key and URL of the OPENWEATHERMAP and GEOAPIFY to your .env**
+
+    ```bash
+    OPEN_WEATHER_API_KEY='fa2e56ce722ba85790a248c8b0cc07a4'
+    OPEN_WEATHER_API_URL='https://api.openweathermap.org/data/2.5/weather/'
+
+    GEO_API_KEY='4ecdff0df87d4eaab894ef92efd7f41a'
+    GEO_API_URL='https://api.geoapify.com/v1/geocode/search/'
+    ```
+
 -   **Install Dependencies**
 
     ```bash
