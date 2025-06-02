@@ -26,6 +26,14 @@ This application is built with Laravel framework and integrated from the 3rd par
 
 ## Setup
 
+-   **Clone the repository**
+
+    ```bash
+    git clone https://github.com/monroenikko/weather-api.git
+    cd weather-api
+
+    ```
+
 -   **Copy the .env.example using this command**
 
     ```bash
